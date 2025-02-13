@@ -2,25 +2,30 @@
 
 ![image](https://github.com/user-attachments/assets/6b2cf415-1109-494a-9b0d-7a00e06cd763)
 
-## Team MATDORI
+## 🚀 Team MATDORI 팀원 소개
 
 <p align="center">
-  <a href="[https://github.com/user1](https://github.com/Jacod97)">
-    <img src="https://private-user-images.githubusercontent.com/82491728/412725138-4f315990-dd4a-4591-829d-33fdbf47a24d.jpg" width="100" height="100" alt="User1">
+  <a href="https://github.com/vhf1030">
+    <img src="https://github.com/vhf1030.png" width="120" height="120" style="border-radius:50%;" alt="vhf1030">
   </a>
-  <a href="https://github.com/user2">
-    <img src="https://github.com/user2.png" width="100" height="100" alt="User2">
+  <a href="https://github.com/OnyX0000">
+    <img src="https://github.com/OnyX0000.png" width="120" height="120" style="border-radius:50%;" alt="OnyX0000">
   </a>
-  <a href="https://github.com/user3">
-    <img src="https://github.com/user3.png" width="100" height="100" alt="User3">
+  <a href="https://github.com/Jacod97">
+    <img src="https://github.com/Jacod97.png" width="120" height="120" style="border-radius:50%;" alt="Jacod97">
   </a>
-  <a href="https://github.com/user4">
-    <img src="https://github.com/user4.png" width="100" height="100" alt="User4">
+  <a href="https://github.com/LJH0963">
+    <img src="https://github.com/LJH0963.png" width="120" height="120" style="border-radius:50%;" alt="LJH0963">
   </a>
-  <a href="https://github.com/user5">
-    <img src="https://github.com/user5.png" width="100" height="100" alt="User5">
+  <a href="https://github.com/sokcho-kim">
+    <img src="https://github.com/sokcho-kim.png" width="120" height="120" style="border-radius:50%;" alt="sokcho-kim">
   </a>
 </p>
+
+<p align="center">
+  <b>👨‍💻 MATDORI 팀 - We build the future! 🚀</b>
+</p>
+
 
 
 ### git clone
