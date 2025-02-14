@@ -1,10 +1,3 @@
-# DACON_DEFAULT_PREDICTION
-
-![image](https://github.com/user-attachments/assets/6b2cf415-1109-494a-9b0d-7a00e06cd763)
-
-![image](https://github.com/user-attachments/assets/b55726b0-9b19-45fb-9f38-263e58d6546e)
-
-
 ## 🚀 Team MATDORI 팀원 소개
 
 <p align="center">
@@ -28,6 +21,13 @@
 <p align="center">
   <b>👨‍💻 MATDORI 팀 - We build the future! 🚀</b>
 </p>
+
+
+# DACON_DEFAULT_PREDICTION
+
+![image](https://github.com/user-attachments/assets/6b2cf415-1109-494a-9b0d-7a00e06cd763)
+
+![image](https://github.com/user-attachments/assets/b55726b0-9b19-45fb-9f38-263e58d6546e)
 
 
 
