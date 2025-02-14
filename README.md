@@ -30,3 +30,10 @@
 
 ### git clone
 ```$ git clone https://github.com/Jacod97/DACON_DEFAULT_PREDICTION.git```
+
+
+#### 악성 URL 분류 AI 경진대회
+https://dacon.io/competitions/official/236451/overview/description
+
+#### 채무 불이행 여부 예측 해커톤: 불이행의 징후를 찾아라!
+https://dacon.io/competitions/official/236450/overview/description
