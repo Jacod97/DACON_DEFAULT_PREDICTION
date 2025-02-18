@@ -36,6 +36,28 @@
 ### git clone
 ```$ git clone https://github.com/Jacod97/DACON_DEFAULT_PREDICTION.git```
 
+### 대용량 파일 관리
+```$ git lfs install```
+
+### 자주쓰는 git 명령어
+- commit 내역 확인
+$ git log
+
+- 현재 파일 변경 상태 확인
+$ git status
+
+- 파일 변경 내용 확인
+$ git diff
+
+- 특정 파일의 수정 내용을 마지막 커밋으로 되돌리기
+$ git restore [파일경로]
+ex. git restore notebooks/eda_ikh.ipynb
+(주의) 수정한 내용이 사라집니다
+
+$ git branch
+$ git checkout
+$ git merge
+
 
 #### 악성 URL 분류 AI 경진대회
 https://dacon.io/competitions/official/236451/overview/description
