@@ -40,27 +40,35 @@
 ```$ git lfs install```
 
 ### 자주쓰는 git 명령어
-- commit 내역 확인
-$ git log
 
-- 현재 파일 변경 상태 확인
-$ git status
-
-- 파일 변경 내용 확인
-$ git diff
-
-- 특정 파일의 수정 내용을 마지막 커밋으로 되돌리기
+```
+$ git log  # commit 내역 확인
+```
+```
+$ git status  # 현재 파일 변경 상태 확인
+```
+```
+$ git diff  # 파일 변경 내용 확인
+```
+```
 $ git restore [파일경로]
-ex. git restore notebooks/eda_ikh.ipynb
-(주의) 수정한 내용이 사라집니다
-
+  # 특정 파일의 수정 내용을 마지막 커밋으로 되돌리기
+  # ex. git restore notebooks/eda_ikh.ipynb
+  # (주의) 수정한 내용이 사라집니다
+```
+```
 $ git branch
 $ git checkout
 $ git merge
+```
 
-
+## 공모전 링크
 #### 악성 URL 분류 AI 경진대회
 https://dacon.io/competitions/official/236451/overview/description
 
 #### 채무 불이행 여부 예측 해커톤: 불이행의 징후를 찾아라!
 https://dacon.io/competitions/official/236450/overview/description
+
+
+#### 건설공사 사고 예방 및 대응책 생성: 한솔데코 시즌3 AI 경진대회
+https://dacon.io/competitions/official/236455/overview/description
