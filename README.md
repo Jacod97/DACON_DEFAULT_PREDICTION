@@ -1,4 +1,4 @@
-## 🚀 Team MATDORI 팀원 소개
+## 🚀 Team MDR 팀원 소개
 
 <p align="center">
   <a href="https://github.com/vhf1030">
