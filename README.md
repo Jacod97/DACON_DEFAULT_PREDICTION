@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>👨‍💻 MDR 팀 - We build the future! 🚀</b>
+  <b>👨‍💻 Team_MDR - We build the future! 🚀</b>
 </p>
 
 
