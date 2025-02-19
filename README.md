@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>👨‍💻 MATDORI 팀 - We build the future! 🚀</b>
+  <b>👨‍💻 MDR 팀 - We build the future! 🚀</b>
 </p>
 
 
